@@ -38,5 +38,5 @@ https://github.com/aymericdamien/TensorFlow-Examples
 | ------------------------------- |------------:|
 | Multi-layer perceptrons         |  94.4.%     |
 | Convolutional neural network    |  98.0.%     |
-| Recurrent neural network        |  98.0.%     |
+| Recurrent neural network        |  97.6.%     |
 
