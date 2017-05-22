@@ -3,8 +3,10 @@
 Digit recognizer trained on MNIST dataset using TensorFlow 1.0 in Python 3.6.0. 
 
 Data Source : http://yann.lecun.com/exdb/mnist/
+
 References : 
 https://www.tensorflow.org/get_started/mnist/pros
+
 https://github.com/aymericdamien/TensorFlow-Examples
 
 
