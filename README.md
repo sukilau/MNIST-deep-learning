@@ -17,23 +17,15 @@ https://github.com/fchollet/keras/tree/master/examples
 
 ## What is in this repo
 
-*mnist-tf-mlp.py*   Multilayer Perceptron
+*mnist-tf-mlp.py*, *mnist-tf-cnn.py*, *mnist-tf-rnn.py*
 
-*mnist-tf-cnn.py*   Convolutional Neural Net
-
-*mnist-tf-rnn.py*   Recurrent Neural Net
-
-* Implementation of deep neural nets are trained against 55000 handwritten digit images using TensorFlow 1.0.
+* Implementation of deep neural nets, ie. multilayer perceptrons, convoluntional neural net and recurrent neural net, are trained against 55000 handwritten digit images using TensorFlow 1.0.
 * Evluation is made on the test set of 10000 handwritten digit images.
 
 
-*mnist-keras-mlp.py*   Multilayer Perceptron
+*mnist-keras-mlp.py*, *mnist-keras-cnn.py*, *mnist-keras-rnn.py*
 
-*mnist-keras-cnn.py*   Convolutional Neural Net
-
-*mnist-keras-rnn.py*   Recurrent Neural Net
-
-* Implementation of deep neural nets are trained against 60000 handwritten digit images using Keras.
+* Implementation of deep neural nets, ie. multilayer perceptrons, convoluntional neural net and recurrent neural net, are trained against 60000 handwritten digit images using Keras.
 * Evluation is made on the test set of 10000 handwritten digit images.
 
 
