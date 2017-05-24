@@ -33,7 +33,7 @@ https://github.com/fchollet/keras/tree/master/examples
 ## Model Evaluation
 | Methods                         |  Test accuracy (TensorFlow)  |  Test accuracy (Keras)  |
 | ------------------------------- |------------------------------|------------------------:|
-| Multi-layer perceptrons         |  94.4.%                      |  97.6%                  |
-| Convolutional neural network    |  98.0.%                      |  xx.x%                  |
-| Recurrent neural network        |  97.6.%                      |  xx.x%                  |
+| Multi-layer perceptrons         |  94.4.%                      |  97.6% (epochs=10)      |
+| Convolutional neural network    |  98.0.%                      |  98.8% (epochs=5)       |
+| Recurrent neural network (LSTM) |  97.6.%                      |  ------                 |
 
